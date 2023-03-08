@@ -1,0 +1,34 @@
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\WinSCP.exe
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Electronic Invoice.exe.config
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Electronic Invoice.exe
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Electronic Invoice.pdb
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\DiffieHellman.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OOXML.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Renci.SshNet.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\WinSCPnet.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.pdb
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.xml
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OOXML.pdb
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OOXML.xml
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\bin\Debug\Renci.SshNet.xml
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.csproj.AssemblyReference.cache
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Interop.MSXML2.dll
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.csproj.ResolveComReference.cache
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.csproj.CoreCompileInputs.cache
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.csproj.CopyComplete
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.exe
+C:\Users\zlingelbach\source\workspace\Biztalk\Send Electronic Invoices\Send Electronic Invoice\Send Electronic Invoice\obj\Debug\Electronic Invoice.pdb
