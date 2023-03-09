@@ -118,7 +118,7 @@ namespace Send_Electronic_Invoice.Classes
 
                             GetInvoiceLine(customer, ref invoice);
 
-                            if (invoice.SalesInvLines.FindAll(s =>s.Type == 2 && s.Quantity > 0.00M).Count == 0 && customer.SellToCustomerNo == "BERKELEY")
+                            if (invoice.SalesInvLines.FindAll(s =>s.Type == 2 && s.Quantity != 0.00M).Count == 0 && customer.SellToCustomerNo == "BERKELEY")
                             {
                                 InvoiceLine line = new InvoiceLine(customer, 1, "GSSTRANS", "GSSTRANS", "EA", "Expedite Shipping", 1.00M, 0.01M, 2, false);
                                 invoice.SalesInvLines.Add(line);
@@ -210,7 +210,7 @@ namespace Send_Electronic_Invoice.Classes
 
                             GetCreditMemoLines(customer, ref invoice);
 
-                            if (invoice.SalesInvLines.FindAll(s => s.Type == 2 && s.Quantity > 0.00M).Count == 0 && customer.SellToCustomerNo == "BERKELEY")
+                            if (invoice.SalesInvLines.FindAll(s => s.Type == 2 && s.Quantity != 0.00M).Count == 0 && customer.SellToCustomerNo == "BERKELEY")
                             {
                                 InvoiceLine line = new InvoiceLine(customer, 1, "GSSTRANS", "GSSTRANS", "EA", "Expedite Shipping", 1.00M, 0.01M, 2, true);
                                 invoice.SalesInvLines.Add(line);
@@ -302,7 +302,7 @@ namespace Send_Electronic_Invoice.Classes
 
                             GetDummyInvoiceLines(customer, ref invoice);
 
-                            if (invoice.SalesInvLines.FindAll(s =>s.Type == 2 && s.Quantity > 0.00M).Count == 0 && customer.SellToCustomerNo == "BERKELEY")
+                            if (invoice.SalesInvLines.FindAll(s =>s.Type == 2 && s.Quantity != 0.00M).Count == 0 && customer.SellToCustomerNo == "BERKELEY")
                             {
                                 InvoiceLine line = new InvoiceLine(customer, 1, "GSSTRANS", "GSSTRANS", "EA", "Expedite Shipping", 1.00M, 0.01M, 2, invoice.No.StartsWith("CMP"));
                                 invoice.SalesInvLines.Add(line);

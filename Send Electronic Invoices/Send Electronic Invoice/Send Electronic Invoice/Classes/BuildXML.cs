@@ -312,9 +312,7 @@ namespace Send_Electronic_Invoice.Classes
                 }
                 else if (line.Type == 1 && line.Description.StartsWith("MAP:"))
                     GlLineNumber = GlLineNumber + 1;
-            }
-
-            
+            }            
         }
 
         private string ValidateInvoiceLine(InvoiceLine line)
@@ -405,6 +403,7 @@ namespace Send_Electronic_Invoice.Classes
                     line.Supplier_Part_ID = line.No;
                 line.Refr_Line_No = line.Line_No - GlLineNumber;
                 Description = line.Description;
+                Unit_Of_Measure = line.Unit_of_Measure_Code;
             }
 
             string UnitPriceDisplay = line.Unit_Price.ToString("G29");
